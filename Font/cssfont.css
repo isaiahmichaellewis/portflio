@@ -1,0 +1,22 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 16px;
+    
+}
+th,td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.media{
+    transform: rotate(-90deg);
+    text-transform: bold;
+    
+}
+.era{
+background-color: rgb(200, 219, 172);
+}
+.media img{
+    rotate: 90deg;
+}

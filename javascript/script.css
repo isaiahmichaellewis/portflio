@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    background-color: #e0bad7;
+    color:#black;
+
+}
+button:hover{
+    background-color: aliceblue;
+
+}
+
+
+p{
+    background-color: aquamarine;
+    width: 200px;
+    height: 25px;
+    margin-left: 45%;
+    
+}
+
+div{
+    background-color: rgb(234, 16, 219);
+    width: auto;
+    height: auto;
+    margin-left: 45%;
+}

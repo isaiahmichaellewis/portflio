@@ -1,0 +1,286 @@
+*{
+    color: #d2d8b3;
+}
+
+.head{
+    text-transform: uppercase;
+    background-color: #771f30;
+}
+
+.section{
+    outline: 3px solid #771f30 ;
+    
+}
+
+#customer{
+    position: static;
+    width: 60%;
+    height: 600px;
+}
+
+.body{
+    position: static;
+    outline: 2px solid #90a9b7;
+    margin-left:5px;
+    margin-top: -1px;
+
+}
+#box{
+    width: 99%;
+    height: 92%;
+}
+#name{
+    outline: 2px dotted #6a041d
+    
+    
+}
+
+#task{
+    position: static;
+    outline: 2px solid #90a9b7 ;
+    width: 25%;
+    height: 550px;
+    
+    
+
+}
+#footer{
+    position: static;
+    float: ;
+    width: 73.5%;
+    margin-left: 26%;
+    margin-top: 10px;
+    text-align: center;
+    outline: 2px solid #90a9b7 ;
+
+}
+.button{
+    position: static;
+    color: #d2d8b3;
+    background-color: #6a041d;
+    margin: 6px;
+    width: 50px;
+    height: 45px;
+    outline: 2px solid #90a9b7 ;
+    
+
+}
+.button:hover{
+    background-color: #90a9b7;
+}
+#personal{
+    position: static;
+    width: 280px;
+    height: 465px;
+    margin-left: 26%;
+    margin-top: -560px;
+    outline: 2px solid #90a9b7 ;
+}
+
+#face{
+    position: static;
+    margin-left: 79%;
+    margin-top:-465px ;
+    text-align: center;
+    width: 230px;
+    height: 465px;
+    outline: 2px solid #90a9b7 ;
+}
+#account{
+    position: static;
+    width: 280px;
+    height: 465px;
+    margin-left: 52%;
+    margin-top: -486px;
+    outline: 2px solid #90a9b7 ;
+
+    
+
+}
+
+#transfer{
+    position: static;
+    width: 40%;
+    height: 800px;
+
+}
+
+#query{
+    position: static;
+    width: 40%;
+    height: 800px;
+}
+
+.text{
+  width: 90px;
+  align-self: right;
+
+
+}
+
+.text:active
+{
+    background-color: #6a041d;
+}
+
+
+input.text{
+    position: static;
+    margin-left: 9px;
+    color: #771f30;
+    background-color: antiquewhite;
+    width: 150px;
+}
+
+#tran-body{
+    width: 95%;
+    height: 750px;
+    outline: 2px solid #90a9b7;
+    margin-left: 15px;
+    margin-top: -6px;
+}
+
+#tran-Ac{
+    position: static;
+    outline: 2px solid #90a9b7;
+    width: 180px;
+    height: 600px;
+    margin-left: 10px;
+    
+
+}
+#Ac-No{
+    position: static;
+    margin-left: 9px;
+    color: #771f30;
+    background-color: antiquewhite;
+    width: 150px;
+}
+#fraccount{
+    margin-left: 100px;
+}
+
+#tran-Cd{
+    outline: 2px solid #90a9b7;
+    width: 300px;
+    height: 38%;
+    margin-left: 205px;
+    margin-top: -610px;
+}
+input.text2{
+    position: static;
+    margin-left: 9px;
+    color: #d2d8b3;
+    background-color: #90a9b7;
+    width: 150px;
+}
+
+#tran-TD{
+    outline: 2px solid #90a9b7;
+    width: 300px;
+    height: 38%;
+    margin-left: 205px;
+}
+
+#tran-TB{
+    position: static;
+    outline: 2px solid #90a9b7;
+    width: 180px;
+    height: 590px;
+    margin-left: 520px;
+    margin-top: -590px;
+    
+}
+
+#tran-footer{
+    position: static;
+    outline: 2px solid #90a9b7;
+    width: 96%; 
+    height: 120px;
+    margin-left: 9px;
+    margin-top: 15px;
+
+ }
+
+ .button2{
+    position: static;
+    color: #d2d8b3;
+    background-color: #90a9b7;
+    margin: 6px;
+    width: 100px;
+    height: 45px;
+    outline: 2px solid #771f30 ;
+    
+ }
+
+ .cancel{
+    position: static;
+    color: #d2d8b3;
+    background-color: #6a041d;
+    margin-left: 400px;
+    width: 100px;
+    height: 45px;
+    outline: 2px solid #90a9b7 ;
+ }
+
+ .cancel:hover{
+    background-color: #90a9b7;
+
+ }
+
+#cq-AN{
+    position: static;
+    outline: 2px solid #90a9b7;
+    width: 180px;
+    height: 600px;
+    margin-left: 10px;
+    
+
+}
+
+#cq-cd{
+    outline: 2px solid #90a9b7;
+    width: 300px;
+    height: 38%;
+    margin-left: 205px;
+    margin-top: -610px; 
+
+}
+
+#cq-cq{
+    outline: 2px solid #90a9b7;
+    width: 300px;
+    height: 38%;
+    margin-left: 205px;
+    margin-top: 20px;
+    
+
+}
+
+#cq-body{
+    width: 95%;
+    height: 750px;
+    outline: 2px solid #90a9b7;
+    margin-left: 15px;
+    margin-top: -6px;
+}
+
+#cq-footer{
+    position: static;
+    outline: 2px solid #90a9b7;
+    width: 96%; 
+    height: 120px;
+    margin-left: 9px;
+    margin-top: 15px;
+
+}
+
+
+#cq-tb{
+    position: static;
+    outline: 2px solid #90a9b7;
+    width: 180px;
+    height: 590px;
+    margin-left: 520px;
+    margin-top: -590px;
+}
